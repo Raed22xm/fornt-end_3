@@ -1,0 +1,34 @@
+
+
+.shoppingCartCont{
+    width: 50vw;
+    height: 80vh;
+    background-color: #ffffff;
+    padding: 4vw;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+.product-headers{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.details{
+    width: 40%;
+}
+
+.quantity{
+    width: 10%;
+}
+.price{
+    width: 10%;
+}
+.total{
+    width: 10%;
+}
+.heading-cont{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}

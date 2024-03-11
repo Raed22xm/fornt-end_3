@@ -1,0 +1,39 @@
+.productCardCont{
+    width: 14vw;
+    min-height: 55vh;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    /* align-items: center; */
+    flex-direction: column;
+    margin: 10px;
+    box-shadow: 1px 1px 3px #000000;
+    border-radius: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.productCardCont h3{
+    font-size: 1.8rem;
+    text-align: left;
+}
+
+.productCardCont p{
+    font-size: 1.1rem;
+}
+.product-price{
+    font-size: 1.5rem !important;
+}
+.productCardCont img{
+    width: 100%;
+    /* height: 50%; */
+}
+
+.productCardCont button{
+    font-size: 1.3rem;
+    padding: 10px;
+    cursor: pointer;
+    background-color: rebeccapurple;
+    color: white;
+    border: none;
+    border-radius: 20px;
+}

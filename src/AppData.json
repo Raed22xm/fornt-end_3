@@ -1,0 +1,62 @@
+{
+  "productsData": [
+    {
+      "productImg": "/CricketBatGrip.jpg",
+      "productName": "Cricket Bat",
+      "productPrice": 12,
+      "productDetail": "HERO",
+      "id": "5be6"
+    },
+    {
+      "productImg": "/CricketGlasses.jpg",
+      "productName": "Cricket Glasses",
+      "productPrice": 15,
+      "productDetail": "NIKE",
+      "id": "9205"
+    },
+    {
+      "productImg": "/CricketBatGrip.jpg",
+      "productName": "Cricket Glasses Pro",
+      "productPrice": 16,
+      "productDetail": "Adidaas",
+      "id": "d6e0"
+    },
+    {
+      "productImg": "/CricketBatGrip.jpg",
+      "productName": "Cricket Gloves",
+      "productPrice": 11,
+      "productDetail": "Nike?",
+      "id": "6b02"
+    },
+    {
+      "productImg": "/Plastic Cricket Stumps.jpg",
+      "productName": "Plastic Cricket Stumps",
+      "productPrice": 20,
+      "productDetail": "Adidas",
+      "id": "0e0f"
+    },
+    {
+      "productImg": "/RedCricketBat.jpg",
+      "productName": "Red Cricket Bat",
+      "productPrice": 110,
+      "productDetail": "Nike?",
+      "id": "bbdb"
+    }
+  ],
+  "shoppingCart": [
+    {
+      "compony": "Nike?",
+      "id": "6518",
+      "price": 110,
+      "productName": "Red Cricket Bat",
+      "quantity": 2
+    },
+    {
+      "compony": "NIKE",
+      "id": "d396",
+      "price": 15,
+      "productName": "Cricket Glasses",
+      "quantity": 2
+    }
+  ]
+}

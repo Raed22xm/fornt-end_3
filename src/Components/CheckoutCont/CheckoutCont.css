@@ -1,0 +1,36 @@
+.CheckoutCont{
+    width: 20vw;
+    height: 80vh;
+    background-color: #f5f5f6;
+    padding: 65px 40px;
+    
+}
+
+.CheckoutCont h3{
+    font-size: 1.5rem;
+    margin-bottom: 50px;
+}
+
+.quantity-details{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0px;   
+}
+
+.CheckoutCont button{
+    width: 100%;
+    background-color: #5d50dd;
+    padding: 15px;
+    color: white;
+    font-size: medium;
+    font-family: cursive;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    transition: 0.7s;
+}
+
+
+.CheckoutCont button:hover{
+    background-color: #3b28e4;
+}
